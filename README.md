@@ -17,10 +17,10 @@ Este é um projeto simples que demonstra uma aplicação Angular interagindo com
 
 ## Como Iniciar a Aplicação Angular
 
-1. Instale as dependências do projeto:
+1. ## Instale as dependências do projeto:
 
     npm install
 
-2. Inicie a aplicação Angular:
+2. ## Inicie a aplicação Angular:
 
     ng serve
