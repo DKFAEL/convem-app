@@ -1,0 +1,58 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0; /* Adicione padding para melhorar a aparência */
+    box-sizing: border-box; /* Mantenha o tamanho total com padding e borda */
+}
+
+body {
+    min-height: 100vh; /* Define altura mínima para cobrir a tela inteira */
+}
+
+h2 {
+    position: absolute;
+    top: 30%;
+    left: 26%;
+    font-size: 2rem;
+    color: rgb(0, 0, 0);;
+}
+/* Estilo para o input */
+ input {
+    position: absolute;
+    top: 45%;
+    left: 33.5%;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    width: 100%;
+    max-width: 300px;
+  }
+  /* Estilo para o botão */
+   button {
+    position: absolute;
+    top: 45%;
+    left: 57%;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #6610f2;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    height: 6.8%;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+   button:hover {
+    background-color: #6f42c1;
+  }
+
+  p {
+    position: absolute;
+    top: 57%;
+    left: 35%;
+    font-size: 19px;
+    color: #6f42c1;
+  }
